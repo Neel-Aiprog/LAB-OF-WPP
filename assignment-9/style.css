@@ -1,0 +1,143 @@
+#nav-bar{
+    height: 500px;
+    width: 1600px;
+    color: white;
+    font-weight: 300;
+    font-size: 1.2rem;
+    background-image: url("lol.avif");
+    background-size: cover;
+
+}
+#nav-down {
+    display: inline;
+    font-size: 16;
+    font-weight: 300;
+    /* margin-right: px; */
+    text-transform: none;
+}
+
+#nav-get {
+    display: inline;
+    font-size: 16;
+    font-weight: 300;
+    margin-left: 10px;
+    margin-right: 200px;
+    text-transform: none;
+}
+
+#nav-inv {
+    display: inline;
+    font-size: 16;
+    font-weight: 300;
+    margin-left: 10px;
+    margin-right: 200px;
+    text-transform: none;
+}
+
+
+#nav-add {
+    display: inline;
+    font-size: 16;
+    font-weight: 300;
+    margin-left: 10px;
+    margin-right: 200px;
+    text-transform: none;
+}
+
+#nav-log {
+    display: inline;
+    font-size: 16;
+    font-weight: 300;
+    margin-left: 10px;
+    margin-right: 200px;
+    text-transform: none;
+}
+
+#nav-sign {
+    display: inline;
+    font-size: 16;
+    font-weight: 300;
+    margin-right:20px;
+    text-transform: none; 
+}
+#logo{
+    display: block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 90px;
+    font-size: 10rem;
+    font-weight: 300px;
+    font: sans-serif;
+    margin-right: 100px;
+}
+#logo-1{
+
+    display: block;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 75px;
+    margin-right: 100px;
+}
+#search{
+    display: inline;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 100px;
+}
+#search-1{
+    display: inline;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-color:2px solid black;
+    margin-right: 100px;
+    border-radius: 50%;
+}
+#box1{
+    border: 5px solid black;
+    border-radius: 10%;
+    width: 300px;
+    background-image: url("lol1.avif");
+    background-size:cover;
+    height: 200px;
+}
+
+#box2{
+    border: 5px solid black;
+    border-radius: 10%;
+    width: 300px;
+    background-image: url("lol2.avif");
+    background-size:cover;
+    height: 200px;
+}
+#main{
+    margin-top: 50px;
+    display: flex;
+    justify-content: space-evenly;
+}
+#para{
+    background-color:whitesmoke;
+    color:black;
+}
+#link{
+    text-decoration: none;
+}
+#main1{
+    background-color: whitesmoke;
+    margin-top: 100px;
+    display:flex;
+    justify-content: space-around;
+}
+
+#para5{
+    background-color: whitesmoke;
+    font-family: sans-serif;
+}
+body{
+    background-color:whitesmoke;
+}
